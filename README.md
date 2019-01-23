@@ -1,1 +1,1 @@
-# automatic-succotash
+Latihan1
